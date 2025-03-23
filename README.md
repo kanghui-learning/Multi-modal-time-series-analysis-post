@@ -34,8 +34,8 @@ https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis
    - 研究潜力：推理、可解释性、鲁棒性、公平性等  
    - 作者对领域未来的展望
 
-**数据结构图**
-![论文结构图](./images/intro.pdf)
+**论文结构**
+![论文结构图](./images/intro.png)
 
 ---
 
@@ -68,8 +68,8 @@ https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis
    - 举例：从数值时间序列生成文本描述，或通过生成图像表示辅助时间序列学习  
    - 适用于数据增强、跨域学习、多任务协同等场景
 
-**核心框架图**  
-![核心框架图](./images/taxonomy.pdf)
+**核心框架**  
+![核心框架图](./images/taxonomy.png)
 
 ---
 
