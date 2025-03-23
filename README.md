@@ -34,7 +34,8 @@ https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis
    - 研究潜力：推理、可解释性、鲁棒性、公平性等  
    - 作者对领域未来的展望
 
-[论文结构图](./images/intro.pdf)
+**数据结构图**
+![论文结构图](./images/intro.pdf)
 
 ---
 
@@ -44,7 +45,8 @@ https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis
 - 论文中汇总了若干常用的开源多模态时间序列数据集，覆盖医疗（如MIMIC系列）、金融（如FNSPID）、IoT、交通（如NYC交通数据）等多种场景。  
 - 每个数据集通常包含时间序列信号，再配合文本、图像或结构化元数据，为多模态分析提供素材。
 
-[数据集](./images/data.png)
+**数据集**
+![数据集](./images/data.png)
 
 ---
 
@@ -66,7 +68,8 @@ https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis
    - 举例：从数值时间序列生成文本描述，或通过生成图像表示辅助时间序列学习  
    - 适用于数据增强、跨域学习、多任务协同等场景
 
-[核心框架图](./images/taxonomy.pdf)
+**核心框架图**  
+![核心框架图](./images/taxonomy.pdf)
 
 ---
 
@@ -87,11 +90,14 @@ https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis
 
 并列举了典型研究代表模型进行分析。
 
-[通用领域](./images/taxonomy_general.png)
+**通用领域**
+![通用领域](./images/taxonomy_general.png)
 
-[金融及医疗领域](./images/taxonomy_fin&health.png)
+**金融及医疗领域**
+![金融及医疗领域](./images/taxonomy_fin&health.png)
 
-[其他领域](./images/taxonomy_others.png)
+**其他领域**
+![其他领域](./images/taxonomy_others.png)
 
 ---
 
