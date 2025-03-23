@@ -133,8 +133,6 @@ https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis
 - **隐私与伦理**：多模态数据往往更涉及个人隐私；如何在获取高准确度的同时保证数据安全与公平性  
 
 
-[图片描述：未来研究趋势或挑战的插画]
-
 ---
 
 ## 8. 总结与附录
