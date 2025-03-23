@@ -63,7 +63,7 @@ https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis
    - 可采用自注意力、交叉注意力、图卷积、对比学习等技术手段  
    - 输入、中间、输出三个阶段均可进行对齐策略
 
-3. **迁移（Transference）**  
+3. **转换（Transference）**  
    - 模态间的转化或生成  
    - 举例：从数值时间序列生成文本描述，或通过生成图像表示辅助时间序列学习  
    - 适用于数据增强、跨域学习、多任务协同等场景
@@ -119,7 +119,6 @@ https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis
 - 新产品上市销量预测，可结合销售历史+图文描述  
 - 工业设备故障诊断，融合传感器时序与日志文本或图像监控
 
-[图片描述：针对每个典型应用的多模态输入与预测结果示意图]
 
 ---
 
